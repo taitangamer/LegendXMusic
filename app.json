@@ -22,6 +22,16 @@
         "value": "",
         "required": true
       },
+      "SUPPORT_CHANNEL": {
+        "description": "Get this value from Ur Channel Link Add",
+        "value": "",
+        "required": true 
+      },
+      "SUPPORT_GROUP": {
+        "description": "Get this value from Ur Group Link Add",
+        "value": "",
+        "required": true
+      },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
         "value": "",
@@ -34,7 +44,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+        "value": "Legend ダ ᴍᴜsɪᴄ",
         "required": true
       },
       "OWNER_ID": {
